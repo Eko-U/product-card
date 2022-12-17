@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [](https://github.com/Eko-U/product-card.git)
-- Live Site URL: [](https://eko-u.github.io/product-card/)
+- Solution URL: [https://github.com/Eko-U/product-card.git](https://github.com/Eko-U/product-card.git)
+- Live Site URL: [https://eko-u.github.io/product-card/](https://eko-u.github.io/product-card/)
 
 ### Built with
 
