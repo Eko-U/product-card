@@ -11,10 +11,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -31,5 +28,25 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/Eko-U/product-card.git](https://your-solution-url.com)
+- Live Site URL: [https://eko-u.github.io/product-card/](https://your-live-site-url.com)
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+
+### What I learned
+I have been able to reinforce my knowledge on flexbox. Down below is a code snippet of how to change the background color of your selection in your browser.
+```css
+::selection {
+  background-color: hsl(158, 36%, 37%);
+  color: #fff;
+}
+```
+
+## Author
+
+- Frontend Mentor - [@Eko-U](https://www.frontendmentor.io/profile/Eko-U)
+- Twitter - [@eko_gift](https://www.twitter.com/eko_gift)
